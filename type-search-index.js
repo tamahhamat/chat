@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.example.chat","l":"ChatController"},{"p":"com.example.chat","l":"ChatMain"},{"p":"com.example.chat","l":"Emojis"},{"p":"com.example.chat","l":"FileRead"},{"p":"com.example.chat","l":"ChatMain.Message"}];updateSearchResults();
