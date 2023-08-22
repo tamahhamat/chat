@@ -27,7 +27,7 @@ Emojis are also supported in the message content.
 
 ## Prerequisites
 
-- Java Development Kit (JDK) 8 or higher 
+- Java Development Kit (JDK) 8 or higher  
 - IntelliJ IDEA (or any Java IDE of your choice)
 - Maven
 
