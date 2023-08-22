@@ -13,6 +13,7 @@ public class ChatMain extends Application {
         FXMLLoader fxmlLoader = new FXMLLoader(ChatMain.class.getResource("chat-view.fxml"));
         Scene scene = new Scene(fxmlLoader.load(), 400, 400);
         stage.setTitle("Chat");
+
         stage.setScene(scene);
         stage.sizeToScene();
         stage.show();
@@ -20,7 +21,7 @@ public class ChatMain extends Application {
 
     public static class Message {
 
-        public static String Name;
+        public  String Name;
         public String LastMessageName;
         public String TimeStamp;
         public String Content;

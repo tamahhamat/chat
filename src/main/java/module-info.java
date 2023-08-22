@@ -5,6 +5,7 @@ module com.example.chat {
     requires org.controlsfx.controls;
     requires com.dlsc.formsfx;
     requires org.kordamp.bootstrapfx.core;
+    requires java.prefs;
 
     opens com.example.chat to javafx.fxml;
     exports com.example.chat;
